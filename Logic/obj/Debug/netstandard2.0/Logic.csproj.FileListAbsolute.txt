@@ -1,0 +1,54 @@
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Data.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.CopyComplete
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Data.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Accessibility.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Security.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\bin\Debug\netstandard2.0\Data.pdb
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.AssemblyReference.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.CopyComplete
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Logic\obj\Debug\netstandard2.0\Logic.pdb
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Logic.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Logic.pdb
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Data.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\WindowsBase.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\System.Xaml.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Accessibility.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\System.Security.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\bin\Debug\netstandard2.0\Data.pdb
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.AssemblyReference.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.csproj.Up2Date
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Logic\obj\Debug\netstandard2.0\Logic.pdb

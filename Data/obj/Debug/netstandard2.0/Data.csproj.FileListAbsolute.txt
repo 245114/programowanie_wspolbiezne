@@ -1,0 +1,30 @@
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\julia\Downloads\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.dll
+C:\STUDIA\Semestr_IV\programowanie_wspolbiezne\Progbiezne-1.2.1_-_kolor_i_stop\Progbiezne-1.2.1\Progbiezne-1.2.1\PW\Data\obj\Debug\netstandard2.0\Data.pdb
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\bin\Debug\netstandard2.0\Data.deps.json
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\bin\Debug\netstandard2.0\Data.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\bin\Debug\netstandard2.0\Data.pdb
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.dll
+D:\studia 2rok\4semestr\wspolbiegi\Programowanie_wspolb-1.1.5\Programowanie_wspolb-1.1.5e\etap1\PW\Data\obj\Debug\netstandard2.0\Data.pdb
